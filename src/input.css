@@ -83,7 +83,7 @@
   }
 
   .section {
-    @apply style-element1 p-[30px] rounded-[20px]  flex flex-col items-center w-[90%] w-[100%] res_menu:w-[45%] mob:w-[75%];
+    @apply style-element1 p-[30px] rounded-[20px]  flex flex-col items-center w-[90%]  res_menu:w-[45%] mob:w-[75%];
   }
 
   .menu-title {
